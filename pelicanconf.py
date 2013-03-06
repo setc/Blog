@@ -1,22 +1,25 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u'Sebasti\xe1n Torrente'
-SITENAME = u'Infra-frequency'
-SITEURL = ''
+AUTHOR = u'Sebastián Torrente'
+SITENAME = u'Infrafrequency'
+SITEURL = r'http://infrafrequency.github.com'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
+
+# Categories
+DEFAULT_CATEGORY = "Blog"
 
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+          ('Jinja2', 'http://jinja.pocoo.org'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('GitHub', r'https://github.com/SebastianTorrente'),
+          ('LinkedIn', r'http://uk.linkedin.com/in/sebastiantorrentecarrillo/')
+		  ('Twitter', r'http://twitter.com/infrafrequency')
 
 DEFAULT_PAGINATION = 5

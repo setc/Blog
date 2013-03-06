@@ -1,9 +1,9 @@
 Title: About
-Date:
+Date: 2013-3-6
 Tags: who, about, me
 Category: About
 Slug: about
 Author: Sebastian Torrente
 Summary: Who I am and what is this about.
 
-I am Sebastián, since I wa... ok, let's make it later.
+lorem ipsum until I get what the hell put it

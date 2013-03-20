@@ -1,0 +1,15 @@
+Title: Arrival
+Date: 2013-03-03 15:00
+Tags: blog, dailylife
+Category: Blog
+Slug: arrival
+Author: Sebastian Torrente
+Summary: First post, test and other things.
+
+Now that I moved to London to get a life, I guess is time to break my 'nothing to say, no sense to open a blog' policy and make one. I have friends who'd like to know about me after all. Is also a way to keep track of things, practice my writting and in the technical side of things, getting some fun with the tweaking of the blog.
+
+Truth be told, I wanted to open a blog but never found the right tool to do it. Yeah, there are things like Wordpress and Blogspot. And hey, they are fine choices. But I wanted something a little bit more tricky. The kind of thing that would give me fun in a "let's make it work my way" way. And Pelican was the perfect choice. Uses git as a way to make new posts, will force me to learn things like Markdown and the blogs made with it look clean. Being able to use emacs or Vim as tools to write my posts is also a good plus.
+
+And nothing more to say so far. I'll try to add comments as soon as I can. Until them, there are some cover letters to write and a Linkedin profile to update.
+
+See you later, and take care.

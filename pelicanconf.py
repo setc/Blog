@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u'Sebasti·n Torrente'
+AUTHOR = u'Sebasti√°n Torrente'
 SITENAME = u'Infrafrequency'
 SITEURL = r'http://infrafrequency.github.com'
 
@@ -20,6 +20,6 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 # Social widget
 SOCIAL = (('GitHub', r'https://github.com/SebastianTorrente'),
           ('LinkedIn', r'http://uk.linkedin.com/in/sebastiantorrentecarrillo/')
-		  ('Twitter', r'http://twitter.com/infrafrequency')
+	  ('Twitter', r'http://twitter.com/infrafrequency'))
 
 DEFAULT_PAGINATION = 5

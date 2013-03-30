@@ -3,7 +3,7 @@
 
 AUTHOR = u'Sebastián Torrente'
 SITENAME = u'Infrafrequency'
-SITEURL = r'http://infrafrequency.github.com'
+SITEURL = r'http://infrafrequency.heroku.com'
 
 TIMEZONE = 'Europe/London'
 
@@ -19,7 +19,7 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 
 # Social widget
 SOCIAL = (('GitHub', r'https://github.com/SebastianTorrente'),
-          ('LinkedIn', r'http://uk.linkedin.com/in/sebastiantorrentecarrillo/')
-	  ('Twitter', r'http://twitter.com/infrafrequency'))
+          ('LinkedIn', r'http://uk.linkedin.com/in/sebastiantorrentecarrillo/'),
+	  ('Twitter', r'http://twitter.com/infrafrequency'),)
 
 DEFAULT_PAGINATION = 5

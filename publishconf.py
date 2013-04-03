@@ -6,7 +6,7 @@ sys.path.append('.')
 from pelicanconf import *
 
 SITEURL = 'http://infrafrequency.herokuapp.com'
-
+FEED_DOMAIN = r'http://infrafrequency.herokuapp.com'
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing

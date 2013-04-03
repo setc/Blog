@@ -8,6 +8,7 @@ SITEURL = r'http://infrafrequency.herokuapp.com'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
+
 # Theme
 THEME = "brownstone"
 

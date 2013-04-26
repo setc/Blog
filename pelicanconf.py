@@ -11,7 +11,7 @@ TIMEZONE = 'Europe/London'
 THEME = 'lannisport'
 SITETAGLINE = 'Taking over tonight!'
 SITEDESCR = 'I am a Physicist in his eternal goal to become a Mad Scientist. Big on science, programming, knolewde, dinosaurs and giant robots.'
-SITELOGO = r'images/Rosen Ritter2.png'
+SITELOGO = 'images/RosenRitter2.png'
 
 # Social
 GITHUB_URL = r'https://github.com/SebastianTorrente/'

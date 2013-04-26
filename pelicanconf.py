@@ -12,6 +12,11 @@ THEME = 'lannisport'
 SITETAGLINE = 'Taking over tonight!'
 SITEDESCR = 'I am a Physicist in his eternal goal to become a Mad Scientist. Big on science, programming, knolewde, dinosaurs and giant robots.'
 SITELOGO = 'images/RosenRitter2.png'
+STATIC_PATHS = [
+    'files',
+    'images',
+    'resume'
+]
 
 # Social
 GITHUB_URL = r'https://github.com/SebastianTorrente/'
